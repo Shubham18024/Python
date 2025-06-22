@@ -1,16 +1,16 @@
 art = '''
-  .oooooo.                                              .oooooo.                          oooo                         
- d8P'  `Y8b                                            d8P'  `Y8b                          888                           
-888           .ooooo.   .oooo.o  .oooo.   oooo d8b    888          oooo    ooo oo.ooooo.   888 .oo.    .ooooo.  oooo d8b 
-888          d88' `88b d88(  "8 `P  )88b  `888""8P    888           `88.  .8'   888' `88b  888P"Y88b  d88' `88b `888""8P 
-888          888ooo888 `"Y88b.   .oP"888   888        888            `88..8'    888   888  888   888  888ooo888  888     
-`88b    ooo  888    .o o.  )88b d8(  888   888        `88b    ooo     `888'     888   888  888   888  888    .o  888     
- `Y8bood8P'  `Y8bod8P' 8""888P' `Y888""8o d888b        `Y8bood8P'      .8'      888bod8P' o888o o888o `Y8bod8P' d888b    
-                                                                   .o..P'       888                                      
-                                                                   `Y8P'       o888o                                                                                                                                                          
-
+                                                                                                                                             
+  ,ad8888ba,                                                             ,ad8888ba,                        88                                 
+ d8"'    `"8b                                                           d8"'    `"8b                       88                                 
+d8'                                                                    d8'                                 88                                 
+88            ,adPPYYba,  ,adPPYba, ,adPPYba, ,adPPYYba, 8b,dPPYba,    88          8b       d8 8b,dPPYba,  88,dPPYba,   ,adPPYba, 8b,dPPYba,  
+88            ""     `Y8 a8P_____88 I8[    "" ""     `Y8 88P'   "Y8    88          `8b     d8' 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8  
+Y8,           ,adPPPPP88 8PP"""""""  `"Y8ba,  ,adPPPPP88 88            Y8,          `8b   d8'  88       d8 88       88 8PP""""""" 88          
+ Y8a.    .a8P 88,    ,88 "8b,   ,aa aa    ]8I 88,    ,88 88             Y8a.    .a8P `8b,d8'   88b,   ,a8" 88       88 "8b,   ,aa 88          
+  `"Y8888Y"'  `"8bbdP"Y8  `"Ybbd8"' `"YbbdP"' `"8bbdP"Y8 88              `"Y8888Y"'    Y88'    88`YbbdP"'  88       88  `"Ybbd8"' 88          
+                                                                                       d8'     88                                             
+                                                                                      d8'      88                                             
 '''
-
 print(art)
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm','n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
