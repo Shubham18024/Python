@@ -43,7 +43,7 @@ def print_final_hands(player_cards, dealer_cards):
     print(f'   Computer\'s final hand: {dealer_cards}, final score : {sum(dealer_cards)}')
 
 
-# 🔁 Game replay loop
+
 while input("Do you want to play a game of Blackjack? Type 'y' or 'n':  ").lower() == 'y':
     clear_screen()
     print(art.logo)
@@ -53,7 +53,7 @@ while input("Do you want to play a game of Blackjack? Type 'y' or 'n':  ").lower
     drawn_cards_dealer = list(choice_of_cards(2))
 
     while keep_playing:
-        adjust_ace(drawn_cards_player)  # ✅ Make sure to adjust before checking score
+        adjust_ace(drawn_cards_player) 
         sum_player_cards = sum(drawn_cards_player)
         print(f'    Your drawn cards are: {drawn_cards_player}, current score : {sum_player_cards}')
         print(f'    Computer\'s first card: {drawn_cards_dealer[0]}')
