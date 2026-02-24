@@ -21,6 +21,7 @@ screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")  
 
 
+
 IS_GAME_ON = True
 
 while IS_GAME_ON:
