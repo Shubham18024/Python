@@ -1,0 +1,14 @@
+main.py --> Overall Game play, and one dashed line.
+scoreboard.py --> one score class but separate score managament.
+ping.py --> one ping class and then movement of those with key bindings.
+pong.py --> one ball with randomized movement.
+
+acc to mam :
+1. Create the screen.
+2. Create and move a paddle.
+3. Create another paddle.
+4. Create the ball and make it move.
+5. Detect collision with wall and bounce.
+6. Detect collision with paddle.
+7. Detect when paddle missed.
+8. Keep score.
