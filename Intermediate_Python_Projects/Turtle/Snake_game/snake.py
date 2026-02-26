@@ -31,6 +31,14 @@ class Snake:
         new_part.goto(self.body[-1].position())
         self.body.append(new_part)
 
+    def reset(self):
+        for part in self.body :
+            part.goto(1500,1500)  #dead snake dumping ground
+        self.body.clear()
+        self.create_snake_initial()
+        self.head = self.body[0]
+
+
     def move(self):
         for parts in range(len(self.body) - 1, 0, -1):
             new_x = self.body[parts - 1].xcor()
